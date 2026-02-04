@@ -13,7 +13,7 @@ layers:
   - I
   - O
   - P
-  - {t: '$$mdi:backspace$$', type: backspace}
+  - KP ENTER
   - $$mdi:keyboard-tab$$
   - A
   - S
@@ -46,7 +46,7 @@ layers:
   - '&windowsLeft'
   - NUMBER
   - $$mdi:apple-keyboard-control$$
-  - {t: '$$mdi:keyboard-return$$', h: Fn}
+  - {t: '$$mdi:backspace$$', h: Fn}
   - {t: '$$mdi:keyboard-space$$', h: NUMBER}
   - $$mdi:apple-keyboard-option$$
   NUMBER:
