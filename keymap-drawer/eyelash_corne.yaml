@@ -13,8 +13,8 @@ layers:
   - I
   - O
   - P
-  - KP ENTER
-  - $$mdi:keyboard-tab$$
+  - {t: '$$mdi:backspace$$', type: backspace}
+  - $$mdi:apple-keyboard-shift$$
   - A
   - S
   - D
@@ -28,8 +28,8 @@ layers:
   - K
   - L
   - {t: ;, s: ':'}
-  - {t: '''', s: '"'}
-  - $$mdi:apple-keyboard-shift$$
+  - {t: '$$mdi:keyboard-return$$', type: enter}
+  - $$mdi:keyboard-tab$$
   - Z
   - X
   - C
