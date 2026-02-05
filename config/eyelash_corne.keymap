@@ -84,8 +84,8 @@
             display-name = "QWERTY";
             bindings = <
 &kp ESC         &kp Q  &kp W  &kp E         &kp R  &kp T                                   &mmv MOVE_UP                     &kp Y            &kp U        &kp I      &kp O    &kp P     &kp BACKSPACE
-&kp LEFT_SHIFT  &kp A  &kp S  &kp D         &kp F  &kp G                   &mmv MOVE_LEFT  &mkp LCLK       &mmv MOVE_RIGHT  &kp H            &kp J        &kp K      &kp L    &kp SEMI  &kp ENTER
-&kp TAB         &kp Z  &kp X  &kp C         &kp V  &kp B      &kp SPACE                    &mmv MOVE_DOWN                   &kp N            &kp M        &kp COMMA  &kp DOT  &kp FSLH  &kp RSHFT
+&kp TAB         &kp A  &kp S  &kp D         &kp F  &kp G                   &mmv MOVE_LEFT  &mkp LCLK       &mmv MOVE_RIGHT  &kp H            &kp J        &kp K      &kp L    &kp SEMI  &kp ENTER
+&kp LEFT_SHIFT  &kp Z  &kp X  &kp C         &kp V  &kp B      &kp SPACE                    &mmv MOVE_DOWN                   &kp N            &kp M        &kp COMMA  &kp DOT  &kp FSLH  &kp RIGHT_SHIFT
                               &windowsLeft  &mo 1  &kp LCTRL                                                                &lt 3 BACKSPACE  &lt 1 SPACE  &kp RALT
             >;
 
