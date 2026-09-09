@@ -65,10 +65,10 @@ layers:
   - {t: '-', s: _}
   - {t: \, s: '|'}
   - {t: '[', s: '{'}
+  - {t: '[', s: '{'}
   - (
   - )
   - {t: ']', s: '}'}
-  - {t: '5', s: '%'}
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
   - $$mdi:mouse-left-click-outline$$
   - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
