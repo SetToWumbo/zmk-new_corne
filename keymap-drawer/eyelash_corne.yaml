@@ -63,8 +63,8 @@ layers:
   - {t: '9', s: (}
   - {t: '0', s: )}
   - {t: '-', s: _}
+  - {t: '$$mdi:transfer$$', type: trans}
   - {t: \, s: '|'}
-  - {t: '[', s: '{'}
   - {t: '[', s: '{'}
   - (
   - )
@@ -78,7 +78,7 @@ layers:
   - $$mdi:arrow-right-bold$$
   - {t: '=', s: +}
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - $$mdi:apple-keyboard-shift$$
+  - {t: '$$mdi:transfer$$', type: trans}
   - F1
   - F2
   - F3
